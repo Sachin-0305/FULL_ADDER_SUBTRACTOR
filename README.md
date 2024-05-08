@@ -41,15 +41,38 @@ Borrow out = A'Bin + A'B + BBin
 **Procedure**
 
 Write the detailed procedure here
-
+**FULL ADDEER:**
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: SACHIN M  RegisterNumber:212223040177
 */
+V![Screenshot 2024-05-08 090407](https://github.com/Sachin-0305/FULL_ADDER_SUBTRACTOR/assets/149985717/0b890d7c-d126-4cc4-8db9-2c85db148282)
 
 **RTL Schematic**
+![Screenshot 2024-05-08 090415](https://github.com/Sachin-0305/FULL_ADDER_SUBTRACTOR/assets/149985717/689802ea-53f2-4322-be34-8cae4974cba7)
+
+
+**TRUTH TABLE**
+
+![Screenshot 2024-05-08 090421](https://github.com/Sachin-0305/FULL_ADDER_SUBTRACTOR/assets/149985717/01128dfd-09a0-489c-89b5-189671d00441)
 
 **Output Timing Waveform**
+![Screenshot 2024-05-08 090430](https://github.com/Sachin-0305/FULL_ADDER_SUBTRACTOR/assets/149985717/fd1c6952-ef75-46a5-83e7-49db5916e825)
+
+
+**HALF SUBTRACTOR**
+**Program:**
+![Screenshot 2024-05-08 090436](https://github.com/Sachin-0305/FULL_ADDER_SUBTRACTOR/assets/149985717/ea14177d-75fd-4c01-aad4-0a6099800e07)
+
+**RTL Schematic**
+![Screenshot 2024-05-08 090442](https://github.com/Sachin-0305/FULL_ADDER_SUBTRACTOR/assets/149985717/0081d15a-7ebb-4f1b-bc04-3ee3d73a9656)
+
+**TRUTH TABLE**
+![Screenshot 2024-05-08 090448](https://github.com/Sachin-0305/FULL_ADDER_SUBTRACTOR/assets/149985717/b1d1a44e-f926-4c7f-a88d-9f6b89b6f9ef)
+
+
+**Output Timing Waveform**
+![Screenshot 2024-05-08 090455](https://github.com/Sachin-0305/FULL_ADDER_SUBTRACTOR/assets/149985717/6e2d15b4-1168-415e-8a66-ad36d830e4c6)
 
 **Result:**
 
